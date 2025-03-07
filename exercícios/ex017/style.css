@@ -10,6 +10,7 @@ body{
 }
 
 h1{
+    background-color: rgba(250, 220, 184, 0.623);
     color: #972f2f;
 }
 
@@ -21,4 +22,9 @@ h1{
 
 h2{
     color: #977d5c;
+}
+
+.topico{
+    color: #b15819;
+    text-shadow: 1px 1px 3px #a52a2a69;
 }
