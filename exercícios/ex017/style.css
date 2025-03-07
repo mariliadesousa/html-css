@@ -12,12 +12,15 @@ body{
 h1{
     background-color: rgba(250, 220, 184, 0.623);
     color: #972f2f;
+    width: 235px;
+    text-indent: 2px;
 }
 
 #principal{
     text-align: center;
     background-color: #977d5c;
     color: white;
+    width: 100%;
 }
 
 h2{
